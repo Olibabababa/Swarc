@@ -28,7 +28,7 @@ The main purpose of Noodle is to optimize administrative tasks, improve communic
 |------------|---------------|-----------------|
 |*1*| *Functional suitability*| *Ensure all data is correct and everything operates as expected*|
 |*2*| *Reliability*| *Ensure that Noodle consistently without unexpected downtime*|
-|*3*| *Usability*| *Create a user-friendly Interface*|
+|*3*| *Usability*| *Create a userfriendly interface with german and english as choosable languages*|
 
 # Architecture Constraints
 
@@ -43,3 +43,6 @@ The main purpose of Noodle is to optimize administrative tasks, improve communic
 # Business Context 
 
 <img width="752" alt="image" src="https://github.com/Olibabababa/Swarc/assets/131277121/2b59dac0-f7fc-46d9-aa3a-c309a3e01306">
+
+<img width="752" alt="image" src="https://github.com/Olibabababa/Swarc/assets/131277121/03b2ea3d-9b72-498c-a9d7-bbc0e660ccb6">
+
