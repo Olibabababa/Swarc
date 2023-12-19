@@ -16,7 +16,7 @@ The main purpose of Noodle is to optimize administrative tasks, improve communic
 
 | Role/Name   | Expectations       |
 |-------------|--------------------|
-| *Manfred Lohr (Lecturer)* | *having the administrational issues* |
+| *Manfred Lohr (Lecturer)* | *having the administrational issues solved* |
 | *Rolandinho Csiszer (Student)* | *expects easier communication with the faculty* |
 | *Volkan Papadopoulus (Student)* | *wants access to grades and feedback via Noodle* |
 | *Brua Meyer (Head of administration)* | *Resource allocation should be done automatically and curriculum planning* |
